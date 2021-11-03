@@ -1,0 +1,73 @@
+body 
+{
+    background: rgb(16, 14, 25);
+    color: rgb(162, 162, 162);
+}
+.main
+{
+    width: 50%; 
+    background: rgb(41, 36, 59);
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    padding: 20px;
+    border-radius: 10px;
+    background: linear-gradient(90deg, #ff000027, #0084ff2d);
+}
+a 
+{
+    color: rgb(234, 0, 66);
+}
+h1
+{
+    font-size: 400%;
+    margin: 10px;
+    color: rgb(234, 0, 66);
+}
+p1 
+{
+    font-size: 250%;
+}
+img 
+{
+    margin: 15px;
+}
+video 
+{
+    margin: 15px;
+}
+p 
+{
+    font-size: 180%;
+}
+h2 
+{
+    font-size: 300%;
+    margin: 10px;
+}
+ul 
+{
+    font-size: 170%;
+}
+button 
+{
+    font-size: 150%;
+}
+span1 
+{
+    font-size: 150%;
+}
+fieldset 
+{
+    width: 450px;
+}
+footer 
+{
+    margin: 50px;
+}
+.addition
+{
+    border-radius: 10px;
+    width: 20%;
+    height: 20%;
+}

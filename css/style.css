@@ -17,6 +17,7 @@ body
 a 
 {
     color: rgb(234, 0, 66);
+    text-decoration: none;
 }
 h1
 {
@@ -28,7 +29,7 @@ p1
 {
     font-size: 250%;
 }
-img 
+.main_img
 {
     margin: 15px;
 }
@@ -68,6 +69,7 @@ footer
 .addition
 {
     border-radius: 10px;
-    width: 20%;
-    height: 20%;
+    height: 25%;
+    width: 25%;
+    margin-right: 5%;
 }
